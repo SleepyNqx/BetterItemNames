@@ -1,0 +1,719 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "itemnames/sword.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF26"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀀": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/neth_sword.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF27"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀁": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/totem.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF28"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀂": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/pearl.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF29"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀃": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/mace.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF2A"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀄": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/label.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF2B"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀅": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/axe.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF2C"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀆": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/labelingame.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF2D"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀇": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_protection.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF2E"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀈": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_fire_protection.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF2F"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀉": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_blast_protection.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF30"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀊": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_projectile_protection.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF31"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀋": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_thorns.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF32"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀌": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_respiration.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF33"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀍": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_aqua_affinity.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF34"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀎": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_depth_strider.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF35"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀏": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_swift_sneak.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF36"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀐": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_soul_speed.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF37"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀑": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_unbreaking.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF38"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀒": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_feather_falling.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF39"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀓": -35
+			}
+		},
+				{
+			"type": "bitmap",
+			"file": "itemnames/enchant_mending.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF3A"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀔": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_knockback.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF3B"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀕": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_sharpness.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF3C"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀖": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/warden_general.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF3D"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀗": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_fire_aspect.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF3E"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀙": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/trident.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF3F"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀘": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_looting.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF40"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀛": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_windburst.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF41"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀜": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_sweeping_edge.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF42"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀡": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/golden_apple.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF43"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀝": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchanted_golden_apple.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF44"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀞": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/diamond.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF45"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀟": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/footsteps.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF46"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀠": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/neth_ingot.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF47"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀢": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/stone.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF48"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀣": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/neth_helmet.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF49"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀤": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/neth_chest.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF4A"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀥": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/music_disc_general.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF4B"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀦": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/apple.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF4C"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀧": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchanted_book.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF4D"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀨": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_efficiency.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF4E"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀩": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/redstone.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF4F"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀪": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/smithing_template.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF50"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀫": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/sand.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF51"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀬": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_silk_touch.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF52"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀭": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/enchant_fortune.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF53"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀮": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/neth_leg.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF54"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀯": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/neth_boots.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF55"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀰": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/oak_log.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF56"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀱": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/neth_axe.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF57"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀲": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/neth_pickaxe.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF58"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀳": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/dirt.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF59"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀴": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/redstone_torch.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF5A"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀵": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/redstone_block.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF5B"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀶": -35
+			}
+		},
+		{
+			"type": "bitmap",
+			"file": "itemnames/redstone_repeater.png",
+			"ascent": 30,
+			"height": 34,
+			"chars": ["\uDBA3\uDF5C"]
+		},
+		{
+			"type": "space",
+			"advances": {
+				"󎀷": -35
+			}
+		}
+	]
+}
