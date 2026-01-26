@@ -1,3 +1,5 @@
+# THIS IS NOT THE FULL SOURCE CODE!!!
+
 ### Better Item Names
 Better Item Names Is a texture pack to make item name colors match the item's color!
 
